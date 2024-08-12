@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.example.editor";
+option java_multiple_files = true;
+
+message UserPreferences {
+  string username = 1;
+  int32 id = 2;
+  int32 t_id = 3;
+  int32 q_id = 4;
+}

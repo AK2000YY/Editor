@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74986473225",
+    "project_id": "editor-737f8",
+    "storage_bucket": "editor-737f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74986473225:android:eb897a41c998eb72d935d8",
+        "android_client_info": {
+          "package_name": "com.example.editor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKT97XrnU6RYHsLA3wHZ0lLcgzE4EVNqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
